@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LinaAlyamani\\source\\repos\\ToDoListAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{12411EE9-A0A4-46BA-81AB-6BD7523FE936}|ToDoListAPI\\ToDoListAPI.csproj|c:\\users\\linaalyamani\\source\\repos\\todolistapi\\todolistapi\\custommodels\\tasksdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12411EE9-A0A4-46BA-81AB-6BD7523FE936}|ToDoListAPI\\ToDoListAPI.csproj|solutionrelative:todolistapi\\custommodels\\tasksdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12411EE9-A0A4-46BA-81AB-6BD7523FE936}|ToDoListAPI\\ToDoListAPI.csproj|c:\\users\\linaalyamani\\source\\repos\\todolistapi\\todolistapi\\models\\taskmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12411EE9-A0A4-46BA-81AB-6BD7523FE936}|ToDoListAPI\\ToDoListAPI.csproj|solutionrelative:todolistapi\\models\\taskmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12411EE9-A0A4-46BA-81AB-6BD7523FE936}|ToDoListAPI\\ToDoListAPI.csproj|c:\\users\\linaalyamani\\source\\repos\\todolistapi\\todolistapi\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12411EE9-A0A4-46BA-81AB-6BD7523FE936}|ToDoListAPI\\ToDoListAPI.csproj|solutionrelative:todolistapi\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12411EE9-A0A4-46BA-81AB-6BD7523FE936}|ToDoListAPI\\ToDoListAPI.csproj|c:\\users\\linaalyamani\\source\\repos\\todolistapi\\todolistapi\\repositories\\tasksrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12411EE9-A0A4-46BA-81AB-6BD7523FE936}|ToDoListAPI\\ToDoListAPI.csproj|solutionrelative:todolistapi\\repositories\\tasksrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12411EE9-A0A4-46BA-81AB-6BD7523FE936}|ToDoListAPI\\ToDoListAPI.csproj|c:\\users\\linaalyamani\\source\\repos\\todolistapi\\todolistapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12411EE9-A0A4-46BA-81AB-6BD7523FE936}|ToDoListAPI\\ToDoListAPI.csproj|solutionrelative:todolistapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12411EE9-A0A4-46BA-81AB-6BD7523FE936}|ToDoListAPI\\ToDoListAPI.csproj|c:\\users\\linaalyamani\\source\\repos\\todolistapi\\todolistapi\\models\\attachment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12411EE9-A0A4-46BA-81AB-6BD7523FE936}|ToDoListAPI\\ToDoListAPI.csproj|solutionrelative:todolistapi\\models\\attachment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12411EE9-A0A4-46BA-81AB-6BD7523FE936}|ToDoListAPI\\ToDoListAPI.csproj|c:\\users\\linaalyamani\\source\\repos\\todolistapi\\todolistapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12411EE9-A0A4-46BA-81AB-6BD7523FE936}|ToDoListAPI\\ToDoListAPI.csproj|solutionrelative:todolistapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12411EE9-A0A4-46BA-81AB-6BD7523FE936}|ToDoListAPI\\ToDoListAPI.csproj|c:\\users\\linaalyamani\\source\\repos\\todolistapi\\todolistapi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12411EE9-A0A4-46BA-81AB-6BD7523FE936}|ToDoListAPI\\ToDoListAPI.csproj|solutionrelative:todolistapi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12411EE9-A0A4-46BA-81AB-6BD7523FE936}|ToDoListAPI\\ToDoListAPI.csproj|c:\\users\\linaalyamani\\source\\repos\\todolistapi\\todolistapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{12411EE9-A0A4-46BA-81AB-6BD7523FE936}|ToDoListAPI\\ToDoListAPI.csproj|solutionrelative:todolistapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12411EE9-A0A4-46BA-81AB-6BD7523FE936}|ToDoListAPI\\ToDoListAPI.csproj|c:\\users\\linaalyamani\\source\\repos\\todolistapi\\todolistapi\\repositories\\itasksrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12411EE9-A0A4-46BA-81AB-6BD7523FE936}|ToDoListAPI\\ToDoListAPI.csproj|solutionrelative:todolistapi\\repositories\\itasksrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12411EE9-A0A4-46BA-81AB-6BD7523FE936}|ToDoListAPI\\ToDoListAPI.csproj|c:\\users\\linaalyamani\\source\\repos\\todolistapi\\todolistapi\\todolistcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12411EE9-A0A4-46BA-81AB-6BD7523FE936}|ToDoListAPI\\ToDoListAPI.csproj|solutionrelative:todolistapi\\todolistcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\LinaAlyamani\\source\\repos\\ToDoListAPI\\ToDoListAPI\\Models\\User.cs",
+              "RelativeDocumentMoniker": "ToDoListAPI\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\LinaAlyamani\\source\\repos\\ToDoListAPI\\ToDoListAPI\\Models\\User.cs",
+              "RelativeToolTip": "ToDoListAPI\\Models\\User.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T08:34:24.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Attachment.cs",
+              "DocumentMoniker": "C:\\Users\\LinaAlyamani\\source\\repos\\ToDoListAPI\\ToDoListAPI\\Models\\Attachment.cs",
+              "RelativeDocumentMoniker": "ToDoListAPI\\Models\\Attachment.cs",
+              "ToolTip": "C:\\Users\\LinaAlyamani\\source\\repos\\ToDoListAPI\\ToDoListAPI\\Models\\Attachment.cs",
+              "RelativeToolTip": "ToDoListAPI\\Models\\Attachment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T08:34:12.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TasksDto.cs",
+              "DocumentMoniker": "C:\\Users\\LinaAlyamani\\source\\repos\\ToDoListAPI\\ToDoListAPI\\CustomModels\\TasksDto.cs",
+              "RelativeDocumentMoniker": "ToDoListAPI\\CustomModels\\TasksDto.cs",
+              "ToolTip": "C:\\Users\\LinaAlyamani\\source\\repos\\ToDoListAPI\\ToDoListAPI\\CustomModels\\TasksDto.cs",
+              "RelativeToolTip": "ToDoListAPI\\CustomModels\\TasksDto.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAcAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T11:07:14.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TaskModel.cs",
+              "DocumentMoniker": "C:\\Users\\LinaAlyamani\\source\\repos\\ToDoListAPI\\ToDoListAPI\\Models\\TaskModel.cs",
+              "RelativeDocumentMoniker": "ToDoListAPI\\Models\\TaskModel.cs",
+              "ToolTip": "C:\\Users\\LinaAlyamani\\source\\repos\\ToDoListAPI\\ToDoListAPI\\Models\\TaskModel.cs",
+              "RelativeToolTip": "ToDoListAPI\\Models\\TaskModel.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAkwBQAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T10:53:00.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TasksController.cs",
+              "DocumentMoniker": "C:\\Users\\LinaAlyamani\\source\\repos\\ToDoListAPI\\ToDoListAPI\\Controllers\\TasksController.cs",
+              "RelativeDocumentMoniker": "ToDoListAPI\\Controllers\\TasksController.cs",
+              "ToolTip": "C:\\Users\\LinaAlyamani\\source\\repos\\ToDoListAPI\\ToDoListAPI\\Controllers\\TasksController.cs",
+              "RelativeToolTip": "ToDoListAPI\\Controllers\\TasksController.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAA9wC0AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T10:52:02.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ITasksRepository.cs",
+              "DocumentMoniker": "C:\\Users\\LinaAlyamani\\source\\repos\\ToDoListAPI\\ToDoListAPI\\Repositories\\ITasksRepository.cs",
+              "RelativeDocumentMoniker": "ToDoListAPI\\Repositories\\ITasksRepository.cs",
+              "ToolTip": "C:\\Users\\LinaAlyamani\\source\\repos\\ToDoListAPI\\ToDoListAPI\\Repositories\\ITasksRepository.cs",
+              "RelativeToolTip": "ToDoListAPI\\Repositories\\ITasksRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T10:47:07.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TasksRepository.cs",
+              "DocumentMoniker": "C:\\Users\\LinaAlyamani\\source\\repos\\ToDoListAPI\\ToDoListAPI\\Repositories\\TasksRepository.cs",
+              "RelativeDocumentMoniker": "ToDoListAPI\\Repositories\\TasksRepository.cs",
+              "ToolTip": "C:\\Users\\LinaAlyamani\\source\\repos\\ToDoListAPI\\ToDoListAPI\\Repositories\\TasksRepository.cs",
+              "RelativeToolTip": "ToDoListAPI\\Repositories\\TasksRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T10:46:45.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LinaAlyamani\\source\\repos\\ToDoListAPI\\ToDoListAPI\\Program.cs",
+              "RelativeDocumentMoniker": "ToDoListAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\LinaAlyamani\\source\\repos\\ToDoListAPI\\ToDoListAPI\\Program.cs",
+              "RelativeToolTip": "ToDoListAPI\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAD4vx0AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T10:43:05.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\LinaAlyamani\\source\\repos\\ToDoListAPI\\ToDoListAPI\\Startup.cs",
+              "RelativeDocumentMoniker": "ToDoListAPI\\Startup.cs",
+              "ToolTip": "C:\\Users\\LinaAlyamani\\source\\repos\\ToDoListAPI\\ToDoListAPI\\Startup.cs",
+              "RelativeToolTip": "ToDoListAPI\\Startup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T10:42:11.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ToDoListContext.cs",
+              "DocumentMoniker": "C:\\Users\\LinaAlyamani\\source\\repos\\ToDoListAPI\\ToDoListAPI\\ToDoListContext.cs",
+              "RelativeDocumentMoniker": "ToDoListAPI\\ToDoListContext.cs",
+              "ToolTip": "C:\\Users\\LinaAlyamani\\source\\repos\\ToDoListAPI\\ToDoListAPI\\ToDoListContext.cs",
+              "RelativeToolTip": "ToDoListAPI\\ToDoListContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T10:39:56.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\LinaAlyamani\\source\\repos\\ToDoListAPI\\ToDoListAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "ToDoListAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\LinaAlyamani\\source\\repos\\ToDoListAPI\\ToDoListAPI\\appsettings.json",
+              "RelativeToolTip": "ToDoListAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-30T10:34:49.472Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
